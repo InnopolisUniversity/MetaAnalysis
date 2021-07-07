@@ -2,7 +2,7 @@
 
 ....
 
-# Citations and Contact.
+## Citations and Contact.
 
 You find a PDF format here : [**Meta-Analytical Comparison Of Energy Consumed By Two Sorting Algorithms**](https://innopolis.university/en/labofindustrializingsoftwareproduction%20/)
 
@@ -24,15 +24,15 @@ If you use our work, please also cite the paper:
 ```
 
 
-# Abstract
+## Abstract
 
 >......
 
 
-# Installation
+## Installation
 
 This code is written in R programming language
 
 
-# Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
