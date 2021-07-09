@@ -3,6 +3,7 @@ This is a repository containing Meta-Analytical studies conducted by [Lab of Ind
 
 ## Specific Studies Conducted and Publications
 * [Meta-Analytical Comparison Of Energy Consumed By Two Sorting Algorithms]()
+* [Meta-analytical Comparison Of SVM and KNN for Text Classification]()
 
 ## Repository directory layout
 Each directory in the repository represent a single meta-analytical study. All necessary materials to replicate study experiments or computations can be found in the study of interest directory. If any challenges are faced do not hesitate to contact any of the contributors.
@@ -13,5 +14,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Contact
 If you would like to get in touch, please contact: <br/>
 [Gcinizwe Dlamini](https://github.com/Gci04) : g.dlamini@innopolis.university <br>
-Zamira Khalmatova : z.kholmatova@innopolis.university<br><br>
+Zamira Kholmatova : z.kholmatova@innopolis.university<br><br>
 Copyright (c) 2020 Innopolis University - All rights reserved.
