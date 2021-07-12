@@ -4,7 +4,10 @@ This is a repository for a meta-analytical study comparing two sorting algorithm
 
 ## Getting Started
 
-To run the notebook you need to have a [Native R kernel for Jupyter](https://github.com/IRkernel/IRkernel) or a gmail account to run in colab. To run on colab : Upload notebook to colab and the `sources_for_ma.txt` file in [`Data`](Data) directory, then you can execute all the cells in the notebook to replicate the results in our experiments.
+To run the notebook you need to have a [Native R kernel for Jupyter](https://github.com/IRkernel/IRkernel) or a gmail account to run in colab. To run on colab : Upload notebook to colab and the `sources_for_ma.txt` file in [`Data`](Data) directory, then you can execute all the cells in the notebook to replicate the results in our experiments.<br>
+
+* <b>R version 4.1.0<b>
+
 
 ## Citations and Contact.
 
