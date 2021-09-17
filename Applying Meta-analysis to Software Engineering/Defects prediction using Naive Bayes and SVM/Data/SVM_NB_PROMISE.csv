@@ -1,0 +1,4 @@
+Name,# of exper.,SVM_mean,SVM_std,NB_mean,NB_std
+Ji et al. (2),7,0.6564,0.1053,0.7006,0.04378
+Kumar and Rathore,4,0.8,0.06964,0.7925,0.1098
+Ji et al.,34,0.4783,0.1811,0.5508,0.1885
